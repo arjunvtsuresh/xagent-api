@@ -1,0 +1,8 @@
+# ignore venv folder
+.venv
+logs/*
+data/*
+# ignore env files
+.env
+
+
